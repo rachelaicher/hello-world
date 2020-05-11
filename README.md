@@ -1,3 +1,3 @@
 # hello-world
-Basic repository
 Figuring this all out... 
+learning to edit
